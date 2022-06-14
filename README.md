@@ -1,8 +1,9 @@
 # bubble-sort
 Function to run bubble sorting algorithm on set of numbers.  
+If you don't have ruby installed you can run the app through https://replit.com/@AxtonSmith/bubble-sort#README.md and follow the README on there to use it.
 
 ## finished
--Having trouble figuring out good way to take a set of integers as inputs, decided to instruct user to pass them separated by commas
+-having trouble figuring out good way to take a set of integers as inputs, decided to instruct user to pass them separated by commas
 
 ## plan  
 
